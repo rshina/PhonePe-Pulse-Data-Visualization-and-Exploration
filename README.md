@@ -3,12 +3,18 @@
 About PhonePe:\n
    PhonePe is a leading digital wallet using which you can transfer money through UPI, recharge prepaid mobile, make utility bill payments, and much more. Just add your bank account details and generate a UPI ID. Without worrying about recharging your wallet, you can begin shopping safely and securely.\n
    
-**Tools install\n
-  1.python\n
-  2.VSCODE\n
-  3.MYSQL\n
-  4.Streamlit\n
-  5.github\n
+**Tools install
+
+  1.python
+  
+  2.VSCODE
+  
+  3.MYSQL
+  
+  4.Streamlit
+  
+  5.github
+  
 **Imported Libraries
   1.git
   2.pymysql
