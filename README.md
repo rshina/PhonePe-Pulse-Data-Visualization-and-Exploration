@@ -1,7 +1,8 @@
 # PhonePe-Pulse-Data-Visualization-and-Exploration
 
 About PhonePe:
-   PhonePe is a leading digital wallet using which you can transfer money through UPI, recharge prepaid mobile, make utility bill payments, and much more. Just add your bank account details and generate a UPI ID. Without worrying about recharging your wallet, you can begin shopping safely and securely.
+   PhonePe is a leading digital wallet using which you can transfer money through UPI, recharge prepaid mobile, make utility bill payments, and much more. Just add your bank account details and generate a UPI ID. Without worrying about recharging your wallet, you can begin shopping safely and securely.\n
+   
 **Tools install
   1.python
   2.VSCODE
